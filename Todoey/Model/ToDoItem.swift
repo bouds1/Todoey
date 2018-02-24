@@ -6,7 +6,7 @@
 //  Copyright © 2018 Jacob Boudreau. All rights reserved.
 //
 
-class ToDoItem {
+class ToDoItem : Codable {
     
     
     var item = ""
